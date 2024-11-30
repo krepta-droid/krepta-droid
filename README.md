@@ -5,7 +5,7 @@ Welcome to my GitHub profile! Here's a little about me:
 🌱 Currently exploring open-source projects and building my skills in software development.
 🎓 Background in AI training and tech-related roles, with hands-on experience in enhancing machine learning models.
 🎙️ Podcast creator of 'The Citizens Watchdog', focused on critical analysis and storytelling.
-✍️ Aspiring documentarian, passionate about capturing impactful stories, such as the June 26, 2024, Gen Z protest in Kenya.
+✍️ Aspiring cybersecurity expert and good in programming and coding.
 💻 Skills
 Programming & Development
 AI Training: Hands-on experience with Remotask.com and related platforms.
